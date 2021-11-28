@@ -1,2 +1,2 @@
 # My-Self
-file:///C:/Users/ASUS/Desktop/icoder/index.html
+https://shubhjan.github.io/My-Self/
